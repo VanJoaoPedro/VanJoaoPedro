@@ -1,18 +1,28 @@
 
-![Alt Text](jpsp.gif)
-### Hi there 👋
+# **Olá a todos** 👋, **me chamo João Pedro.**😉 
 
-<!--
-**VanJoaoPedro/VanJoaoPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github logo](jpsp.gif)
 
-Here are some ideas to get you started:
+## Quem sou eu ?🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨‍💻 Aspirante a cientista de dados.
+* 🖥 Técnico em informática.
+* 👨‍🎓 Bacharelando em Sistemas de Informações.
+* 📚 Estudante e curioso para aprender novas técnicas.
+
+## Skills 🧙‍♂️
+
+* 🐍 Python.
+* 📊 R.
+* 🎲 SQL.
+* 💻 Power BI.
+* 🧠 Machine Learning.
+* 🧪 Survival Analisis.
+* 📉 Data Visualization.
+
+## Conecte-se comigo 🌎
+
+[linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-prado/)
+[instagram](https://www.instagram.com/joaohelsing/)
+
+## Meus projetos 🙋‍♂️
