@@ -1,5 +1,5 @@
 
-![Alt Text](JOÃO PEDRO SILVA PRADO.gif)
+![Alt Text](jpsp.gif)
 ### Hi there 👋
 
 <!--
