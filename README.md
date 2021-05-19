@@ -1,5 +1,5 @@
 
-# **Olá a todos** 👋, **me chamo João Pedro.**😉 
+# **Olá a todos 👋, me chamo João Pedro**😉 
 
 ![Github logo](jpsp.gif)
 
@@ -23,6 +23,7 @@
 ## Conecte-se comigo 🌎
 
 [linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-prado/)
+
 [instagram](https://www.instagram.com/joaohelsing/)
 
 ## Meus projetos 🙋‍♂️
