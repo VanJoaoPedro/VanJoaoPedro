@@ -1,8 +1,6 @@
 
 # **Olá a todos 👋, me chamo João Pedro**😉 
 
-![Github logo](jpsp.gif)
-
 ## Quem sou eu ?🤔
 
 * 👨‍💻 Aspirante a cientista de dados.
