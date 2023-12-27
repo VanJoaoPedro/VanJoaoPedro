@@ -25,3 +25,6 @@
 [instagram](https://www.instagram.com/joaohelsing/)
 
 ## Meus projetos 🙋‍♂️
+**Data Science Academy**
+
+[Power Bi para análise de campanhas de marketing.](https://github.com/VanJoaoPedro/PowerBi_MarketingData)
