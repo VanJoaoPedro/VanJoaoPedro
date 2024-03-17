@@ -29,4 +29,4 @@
 
 [Power Bi para análise de campanhas de marketing.](https://github.com/VanJoaoPedro/PowerBi_MarketingData)
 
-[Power Bi para análise de dados comerciais](https://github.com/VanJoaoPedro/superstore_data)
+[Power Bi para análise de dados comerciais.](https://github.com/VanJoaoPedro/superstore_data)
