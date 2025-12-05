@@ -27,6 +27,6 @@
 ## Meus projetos 🙋‍♂️
 **Data Science Academy**
 
-[Power Bi para análise de campanhas de marketing.](https://github.com/VanJoaoPedro/PowerBi_MarketingData)
+[Power Bi para análise de campanhas de marketing.]([https://github.com/VanJoaoPedro/PowerBi_MarketingData](https://github.com/VanJoaoPedro/PowerBI_DSA/tree/main/Mini-Projeto1))
 
-[Power Bi para análise de dados comerciais.](https://github.com/VanJoaoPedro/superstore_data)
+[Power Bi para análise de dados comerciais.]([https://github.com/VanJoaoPedro/superstore_data](https://github.com/VanJoaoPedro/PowerBI_DSA/tree/main/Mini-Projeto2))
